@@ -4,7 +4,7 @@ A habit tracking app built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Demo
 
-[View the app](https://habit-tracker-xyz.vercel.app)
+[View the app](https://habit-tracker-mocha-ten.vercel.app/)
 
 ## Features
 
@@ -16,7 +16,7 @@ A habit tracking app built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](/screenshot.png)
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ Next.js + Tailwind CSS + Framer Motion で作った習慣管理アプリです�
 
 ## デモ
 
-[アプリを見る](https://habit-tracker-xyz.vercel.app)
+[アプリを見る](https://habit-tracker-mocha-ten.vercel.app/)
 
 ## 機能
 
@@ -43,7 +43,7 @@ Next.js + Tailwind CSS + Framer Motion で作った習慣管理アプリです�
 
 ## スクリーンショット
 
-![スクリーンショット](./screenshot.png)
+![スクリーンショット](/screenshot.png)
 
 ## 技術スタック
 
